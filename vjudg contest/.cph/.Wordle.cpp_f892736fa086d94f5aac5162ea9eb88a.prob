@@ -1,0 +1,1 @@
+{"name":"Local: Wordle","url":"/home/md-naim/My Workspace/problem_solving-XPSC/vjudg contest/Wordle.cpp","tests":[{"id":1785251925577,"input":"3\nABCDE\nEDCBA\nROUND\nRINGS\nSTART\nSTUNT\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/md-naim/My Workspace/problem_solving-XPSC/vjudg contest/Wordle.cpp","group":"local","local":true}
